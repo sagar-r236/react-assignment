@@ -1,0 +1,2 @@
+Dependency : A dependency is a third party software which your application use to solve a particullar problem.
+

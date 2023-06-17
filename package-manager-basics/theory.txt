@@ -1,0 +1,2 @@
+parcel is a tool which watches the content of our code and calls for dependencies. Also automatically installs the
+dependencies. 
